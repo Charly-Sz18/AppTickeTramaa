@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Ticketrama</string>
+
+
+    <string name='email'>Correo electrónico</string>
+    <string name='pwd'>Contraseña</string>
+    <string name='title'>TICKETRAMA</string>
+    <string name='btnIniciar'>Iniciar sesión</string>
+    <string name='btnRegistrar'>Crear cuenta</string>
+    <string name="title_activity_menu">Activity_menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Sin nombre</string>
+    <string name="nav_header_subtitle">***********************</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_contacto">contacto</string>
+    <string name="menu_config">Configuración</string>
+    <string name="menu_iniciosesion">Iniciar sesión</string>
+    <string name="menu_cerrarsesion">Cerrar sesión</string>
+
+
+    <string name="datos">Ingresa tus Datos</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="correo">Correo</string>
+    <string name="contra">Contraseña</string>
+    <string name="contra2">Confirmar contraseña</string>
+    <string name="btnRegistro">Registrar cuenta</string>
+
+    <string name="estado_">Estado:</string>
+    <string name="ocupado">Ocupado</string>
+    <string name="disponible">Disponible</string>
+    <string name="seleccionad">Seleccionado</string>
+    <string name="vip"> VIP </string>
+    <string name="oro"> ORO </string>
+    <string name="plata"> PLATA </string>
+    <string name="Mpago">Método de pago</string>
+
+    <string name="correopago">Correo electrónico</string>
+    <string name="infotarjeta">Número de la tarjeta</string>
+    <string name="nombretitular">Nombre del titular</string>
+    <string name="fecha">MM/AA</string>
+    <string name="cv">CVC</string>
+    <string name="pagar">Pagar</string>
+
+
+    <string name="zona"> Zona:</string>
+    <string name="boletos"> Boletos:</string>
+    <string name="asientos"> Asientos:</string>
+    <string name="costosZonas"> Costos zona:</string>
+    <string name="cantidad"> 0</string>
+    <string name="costo"> $0</string>
+    <string name="evento">Evento</string>
+
+</resources>

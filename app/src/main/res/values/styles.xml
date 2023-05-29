@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="android:background">@drawable/searchview_background</item>
+    </style>
+
+    <style name="estado_">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="ocupado">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#7D7D7D</item>
+    </style>
+
+    <style name="disponible">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#7D7D7D</item>
+    </style>
+
+    <style name="seleccionad">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#7D7D7D</item>
+    </style>
+
+    <style name="vip">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#D9FC00</item>
+    </style>
+    <style name="oro">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#40F600</item>
+    </style>
+    <style name="plata">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#F68500</item>
+    </style>
+</resources>
